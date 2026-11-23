@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Ebrahim Hamza - Professional Profile">
+</p>
 # Hi, I'm Ebrahim Hamza 👋
 
 ### System Analyst | Full Stack Developer | AI Engineer
